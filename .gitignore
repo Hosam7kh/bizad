@@ -3,3 +3,6 @@ ignore.html
 # ignore files by word
 # will ignore every css file
 *.css
+
+# git rm --cached rm--catch.html
+rm--cach.html
