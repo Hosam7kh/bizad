@@ -3,6 +3,3 @@ ignore.html
 # ignore files by word
 # will ignore every css file
 *.css
-
-# 
-*hosam
